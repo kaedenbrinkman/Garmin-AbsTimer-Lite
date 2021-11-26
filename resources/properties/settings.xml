@@ -1,0 +1,136 @@
+<settings>
+<setting propertyKey="@Properties.beep_tone_enabled" title="@Strings.beep_tone_enabled">
+<settingConfig type="boolean" />
+</setting>
+<setting propertyKey="@Properties.vibrate_enabled" title="@Strings.vibrate_enabled">
+<settingConfig type="boolean" />
+</setting>
+<setting propertyKey="@Properties.display_wake_enabled" title="@Strings.display_wake_enabled">
+<settingConfig type="boolean" />
+</setting>
+<setting propertyKey="@Properties.activity_recording_enabled" title="@Strings.activity_recording_enabled">
+<settingConfig type="boolean" />
+</setting>
+<setting propertyKey="@Properties.font_size" title="@Strings.font_size_label">
+<settingConfig type="list">
+	<listEntry value="0">@Strings.font_size_label1</listEntry>
+	<listEntry value="1">@Strings.font_size_label2</listEntry>
+</settingConfig>
+</setting>
+
+<setting propertyKey="@Properties.label_1" title="@Strings.rt_lb_title">
+<settingConfig type="alphaNumeric" readonly="true"/>
+</setting>
+<setting propertyKey="@Properties.type_1" title="@Strings.rt_lb_type">
+<settingConfig type="list">
+	<listEntry value="0">@Strings.opt_type_0</listEntry>
+	<listEntry value="1">@Strings.opt_type_1</listEntry>
+</settingConfig>
+</setting>
+<setting propertyKey="@Properties.label_1" title="@Strings.rt_lb_title">
+<settingConfig type="alphaNumeric" readonly="true" />
+</setting>
+<setting propertyKey="@Properties.names_1" title="@Strings.rt_nm_title">
+<settingConfig type="alphaNumeric" />
+</setting>
+<setting propertyKey="@Properties.times_1" title="@Strings.rt_tm_title">
+<settingConfig type="alphaNumeric" />
+</setting>
+
+<setting propertyKey="@Properties.label_2" title="@Strings.rt_lb_title">
+<settingConfig type="alphaNumeric" readonly="true" />
+</setting>
+<setting propertyKey="@Properties.type_2" title="@Strings.rt_lb_type">
+<settingConfig type="list">
+	<listEntry value="0">@Strings.opt_type_0</listEntry>
+	<listEntry value="1">@Strings.opt_type_1</listEntry>
+</settingConfig>
+</setting>
+<setting propertyKey="@Properties.names_2" title="@Strings.rt_nm_title">
+<settingConfig type="alphaNumeric" />
+</setting>
+<setting propertyKey="@Properties.times_2" title="@Strings.rt_tm_title">
+<settingConfig type="alphaNumeric" />
+</setting>
+
+<setting propertyKey="@Properties.label_3" title="@Strings.rt_lb_title">
+<settingConfig type="alphaNumeric" readonly="true" />
+</setting>
+<setting propertyKey="@Properties.type_3" title="@Strings.rt_lb_type">
+<settingConfig type="list">
+	<listEntry value="0">@Strings.opt_type_0</listEntry>
+	<listEntry value="1">@Strings.opt_type_1</listEntry>
+</settingConfig>
+</setting>
+<setting propertyKey="@Properties.names_3" title="@Strings.rt_nm_title">
+<settingConfig type="alphaNumeric" />
+</setting>
+<setting propertyKey="@Properties.times_3" title="@Strings.rt_tm_title">
+<settingConfig type="alphaNumeric" />
+</setting>
+
+<setting propertyKey="@Properties.label_4" title="@Strings.rt_lb_title">
+<settingConfig type="alphaNumeric" readonly="true" />
+</setting>
+<setting propertyKey="@Properties.type_4" title="@Strings.rt_lb_type">
+<settingConfig type="list">
+	<listEntry value="0">@Strings.opt_type_0</listEntry>
+	<listEntry value="1">@Strings.opt_type_1</listEntry>
+</settingConfig>
+</setting>
+<setting propertyKey="@Properties.names_4" title="@Strings.rt_nm_title">
+<settingConfig type="alphaNumeric" />
+</setting>
+<setting propertyKey="@Properties.times_4" title="@Strings.rt_tm_title">
+<settingConfig type="alphaNumeric" />
+</setting>
+
+<setting propertyKey="@Properties.label_5" title="@Strings.rt_lb_title">
+<settingConfig type="alphaNumeric" readonly="true" />
+</setting>
+<setting propertyKey="@Properties.type_5" title="@Strings.rt_lb_type">
+<settingConfig type="list">
+	<listEntry value="0">@Strings.opt_type_0</listEntry>
+	<listEntry value="1">@Strings.opt_type_1</listEntry>
+</settingConfig>
+</setting>
+<setting propertyKey="@Properties.names_5" title="@Strings.rt_nm_title">
+<settingConfig type="alphaNumeric" />
+</setting>
+<setting propertyKey="@Properties.times_5" title="@Strings.rt_tm_title">
+<settingConfig type="alphaNumeric" />
+</setting>
+
+<setting propertyKey="@Properties.label_6" title="@Strings.rt_lb_title">
+<settingConfig type="alphaNumeric" readonly="true" />
+</setting>
+<setting propertyKey="@Properties.type_6" title="@Strings.rt_lb_type">
+<settingConfig type="list">
+	<listEntry value="0">@Strings.opt_type_0</listEntry>
+	<listEntry value="1">@Strings.opt_type_1</listEntry>
+</settingConfig>
+</setting>
+<setting propertyKey="@Properties.names_6" title="@Strings.rt_nm_title">
+<settingConfig type="alphaNumeric" />
+</setting>
+<setting propertyKey="@Properties.times_6" title="@Strings.rt_tm_title">
+<settingConfig type="alphaNumeric" />
+</setting>
+
+<setting propertyKey="@Properties.label_7" title="@Strings.rt_lb_title">
+<settingConfig type="alphaNumeric" readonly="true" />
+</setting>
+<setting propertyKey="@Properties.type_7" title="@Strings.rt_lb_type">
+<settingConfig type="list">
+	<listEntry value="0">@Strings.opt_type_0</listEntry>
+	<listEntry value="1">@Strings.opt_type_1</listEntry>
+</settingConfig>
+</setting>
+<setting propertyKey="@Properties.names_7" title="@Strings.rt_nm_title">
+<settingConfig type="alphaNumeric" />
+</setting>
+<setting propertyKey="@Properties.times_7" title="@Strings.rt_tm_title">
+<settingConfig type="alphaNumeric" />
+</setting>
+
+</settings>

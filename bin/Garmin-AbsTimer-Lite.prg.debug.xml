@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <manifest filename="C:\Users\Kaeden\connect-iq\Garmin-AbsTimer-Lite\manifest.xml"/>
+    <pcToLineNum>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerPausedMenuDelegate.mc" id="3" lineNum="10" pc="268435456" symbol="initialize"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerPausedMenuDelegate.mc" id="3" lineNum="11" pc="268435460" symbol="initialize"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerPausedMenuDelegate.mc" id="3" lineNum="12" pc="268435478" symbol="initialize"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerPausedMenuDelegate.mc" id="4" lineNum="15" pc="268435489" symbol="onSelect"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerPausedMenuDelegate.mc" id="4" lineNum="16" pc="268435493" symbol="onSelect"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerPausedMenuDelegate.mc" id="5" lineNum="19" pc="268435506" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerPausedMenuDelegate.mc" id="5" lineNum="20" pc="268435510" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerPausedMenuDelegate.mc" id="5" lineNum="21" pc="268435517" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerPausedMenuDelegate.mc" id="5" lineNum="22" pc="268435528" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerPausedMenuDelegate.mc" id="5" lineNum="23" pc="268435538" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerPausedMenuDelegate.mc" id="5" lineNum="24" pc="268435549" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerPausedMenuDelegate.mc" id="5" lineNum="26" pc="268435559" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerPausedMenuDelegate.mc" id="5" lineNum="27" pc="268435579" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerDelegate.mc" id="7" lineNum="10" pc="268435583" symbol="initialize"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerDelegate.mc" id="7" lineNum="11" pc="268435587" symbol="initialize"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerDelegate.mc" id="7" lineNum="12" pc="268435597" symbol="initialize"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerDelegate.mc" id="7" lineNum="13" pc="268435607" symbol="initialize"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerDelegate.mc" id="7" lineNum="14" pc="268435625" symbol="initialize"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerDelegate.mc" id="8" lineNum="17" pc="268435638" symbol="onMenu"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerDelegate.mc" id="8" lineNum="19" pc="268435642" symbol="onMenu"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerDelegate.mc" id="8" lineNum="21" pc="268435700" symbol="onMenu"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerDelegate.mc" id="9" lineNum="24" pc="268435704" symbol="updateMenu"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerDelegate.mc" id="9" lineNum="25" pc="268435708" symbol="updateMenu"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerDelegate.mc" id="10" lineNum="29" pc="268435751" symbol="getLabels"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerDelegate.mc" id="10" lineNum="30" pc="268435755" symbol="getLabels"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerDelegate.mc" id="10" lineNum="31" pc="268435762" symbol="getLabels"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerDelegate.mc" id="10" lineNum="32" pc="268435767" symbol="getLabels"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerDelegate.mc" id="10" lineNum="33" pc="268435782" symbol="getLabels"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerDelegate.mc" id="10" lineNum="36" pc="268435840" symbol="getLabels"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerDelegate.mc" id="11" lineNum="39" pc="268435844" symbol="onKey"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerDelegate.mc" id="11" lineNum="42" pc="268435848" symbol="onKey"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerDelegate.mc" id="11" lineNum="43" pc="268435875" symbol="onKey"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerDelegate.mc" id="11" lineNum="44" pc="268435896" symbol="onKey"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerDelegate.mc" id="11" lineNum="46" pc="268435923" symbol="onKey"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerDelegate.mc" id="11" lineNum="47" pc="268435954" symbol="onKey"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerDelegate.mc" id="11" lineNum="48" pc="268436011" symbol="onKey"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerDelegate.mc" id="11" lineNum="49" pc="268436026" symbol="onKey"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerDelegate.mc" id="11" lineNum="50" pc="268436053" symbol="onKey"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerDelegate.mc" id="11" lineNum="53" pc="268436074" symbol="onKey"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="13" lineNum="30" pc="268436078" symbol="initialize"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="13" lineNum="31" pc="268436082" symbol="initialize"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="13" lineNum="32" pc="268436095" symbol="initialize"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="13" lineNum="33" pc="268436105" symbol="initialize"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="13" lineNum="34" pc="268436127" symbol="initialize"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="13" lineNum="35" pc="268436152" symbol="initialize"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="13" lineNum="36" pc="268436192" symbol="initialize"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="13" lineNum="37" pc="268436248" symbol="initialize"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="13" lineNum="38" pc="268436304" symbol="initialize"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="14" lineNum="43" pc="268436335" symbol="callback1"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="14" lineNum="44" pc="268436339" symbol="callback1"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="14" lineNum="45" pc="268436350" symbol="callback1"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="14" lineNum="47" pc="268436369" symbol="callback1"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="14" lineNum="48" pc="268436500" symbol="callback1"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="14" lineNum="51" pc="268436524" symbol="callback1"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="15" lineNum="54" pc="268436541" symbol="restart"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="15" lineNum="55" pc="268436545" symbol="restart"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="15" lineNum="56" pc="268436558" symbol="restart"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="15" lineNum="57" pc="268436571" symbol="restart"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="16" lineNum="61" pc="268436582" symbol="onLayout"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="16" lineNum="62" pc="268436586" symbol="onLayout"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="16" lineNum="65" pc="268436620" symbol="onLayout"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="16" lineNum="66" pc="268436633" symbol="onLayout"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="16" lineNum="67" pc="268436646" symbol="onLayout"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="17" lineNum="71" pc="268436657" symbol="start"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="17" lineNum="72" pc="268436661" symbol="start"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="17" lineNum="73" pc="268436702" symbol="start"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="17" lineNum="74" pc="268436712" symbol="start"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="17" lineNum="75" pc="268436729" symbol="start"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="18" lineNum="78" pc="268436752" symbol="pause"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="18" lineNum="79" pc="268436756" symbol="pause"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="18" lineNum="80" pc="268436774" symbol="pause"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="18" lineNum="81" pc="268436784" symbol="pause"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="18" lineNum="82" pc="268436801" symbol="pause"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="19" lineNum="85" pc="268436824" symbol="skip"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="19" lineNum="86" pc="268436828" symbol="skip"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="19" lineNum="87" pc="268436839" symbol="skip"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="19" lineNum="88" pc="268436858" symbol="skip"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="19" lineNum="89" pc="268436871" symbol="skip"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="19" lineNum="90" pc="268436888" symbol="skip"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="20" lineNum="94" pc="268436914" symbol="reset"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="20" lineNum="95" pc="268436918" symbol="reset"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="20" lineNum="96" pc="268436936" symbol="reset"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="20" lineNum="97" pc="268436946" symbol="reset"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="20" lineNum="98" pc="268436959" symbol="reset"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="21" lineNum="105" pc="268436973" symbol="onShow"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="22" lineNum="110" pc="268436978" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="22" lineNum="111" pc="268436982" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="22" lineNum="112" pc="268437011" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="22" lineNum="113" pc="268437023" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="22" lineNum="115" pc="268437038" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="22" lineNum="116" pc="268437049" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="22" lineNum="117" pc="268437209" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="22" lineNum="118" pc="268437239" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="22" lineNum="120" pc="268437251" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="22" lineNum="121" pc="268437307" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="22" lineNum="124" pc="268437366" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="22" lineNum="126" pc="268437394" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="22" lineNum="127" pc="268437455" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="22" lineNum="129" pc="268437465" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="22" lineNum="130" pc="268437480" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="22" lineNum="131" pc="268437494" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="22" lineNum="132" pc="268437513" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="22" lineNum="133" pc="268437526" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="22" lineNum="134" pc="268437543" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="22" lineNum="136" pc="268437568" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="22" lineNum="138" pc="268437568" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="22" lineNum="139" pc="268437604" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="22" lineNum="140" pc="268437616" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="22" lineNum="141" pc="268437652" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="22" lineNum="142" pc="268437713" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="22" lineNum="144" pc="268437759" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="22" lineNum="146" pc="268437766" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="22" lineNum="154" pc="268437879" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="22" lineNum="155" pc="268437915" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="22" lineNum="156" pc="268437927" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="22" lineNum="157" pc="268437963" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="22" lineNum="158" pc="268437970" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="23" lineNum="165" pc="268438049" symbol="onHide"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="24" lineNum="168" pc="268438054" symbol="getArrFromStr1D"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="24" lineNum="169" pc="268438058" symbol="getArrFromStr1D"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="24" lineNum="170" pc="268438071" symbol="getArrFromStr1D"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="24" lineNum="171" pc="268438079" symbol="getArrFromStr1D"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="24" lineNum="172" pc="268438086" symbol="getArrFromStr1D"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="24" lineNum="173" pc="268438110" symbol="getArrFromStr1D"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="24" lineNum="174" pc="268438124" symbol="getArrFromStr1D"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="24" lineNum="176" pc="268438137" symbol="getArrFromStr1D"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="24" lineNum="177" pc="268438177" symbol="getArrFromStr1D"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="24" lineNum="178" pc="268438191" symbol="getArrFromStr1D"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="24" lineNum="183" pc="268438214" symbol="getArrFromStr1D"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="25" lineNum="186" pc="268438218" symbol="startOrStopTimer"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="25" lineNum="187" pc="268438222" symbol="startOrStopTimer"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="25" lineNum="188" pc="268438267" symbol="startOrStopTimer"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="25" lineNum="189" pc="268438306" symbol="startOrStopTimer"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="25" lineNum="190" pc="268438345" symbol="startOrStopTimer"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="25" lineNum="191" pc="268438352" symbol="startOrStopTimer"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="25" lineNum="193" pc="268438362" symbol="startOrStopTimer"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="25" lineNum="194" pc="268438373" symbol="startOrStopTimer"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="25" lineNum="196" pc="268438390" symbol="startOrStopTimer"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="25" lineNum="198" pc="268438404" symbol="startOrStopTimer"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="25" lineNum="199" pc="268438417" symbol="startOrStopTimer"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="25" lineNum="204" pc="268438486" symbol="startOrStopTimer"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="25" lineNum="205" pc="268438507" symbol="startOrStopTimer"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="25" lineNum="206" pc="268438530" symbol="startOrStopTimer"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="25" lineNum="208" pc="268438551" symbol="startOrStopTimer"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="25" lineNum="209" pc="268438587" symbol="startOrStopTimer"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="25" lineNum="214" pc="268438611" symbol="startOrStopTimer"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="25" lineNum="215" pc="268438622" symbol="startOrStopTimer"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="25" lineNum="217" pc="268438634" symbol="startOrStopTimer"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="25" lineNum="218" pc="268438659" symbol="startOrStopTimer"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="25" lineNum="222" pc="268438765" symbol="startOrStopTimer"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="26" lineNum="226" pc="268438778" symbol="onPausedMenuSelected"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="26" lineNum="227" pc="268438782" symbol="onPausedMenuSelected"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="26" lineNum="228" pc="268438793" symbol="onPausedMenuSelected"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="26" lineNum="229" pc="268438810" symbol="onPausedMenuSelected"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="26" lineNum="230" pc="268438822" symbol="onPausedMenuSelected"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="26" lineNum="231" pc="268438833" symbol="onPausedMenuSelected"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="26" lineNum="232" pc="268438856" symbol="onPausedMenuSelected"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="26" lineNum="235" pc="268438874" symbol="onPausedMenuSelected"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="27" lineNum="239" pc="268438887" symbol="vibrate"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="27" lineNum="240" pc="268438891" symbol="vibrate"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="27" lineNum="241" pc="268438934" symbol="vibrate"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="27" lineNum="245" pc="268438980" symbol="vibrate"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="28" lineNum="249" pc="268439002" symbol="save"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="28" lineNum="250" pc="268439006" symbol="save"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="28" lineNum="251" pc="268439039" symbol="save"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="28" lineNum="252" pc="268439059" symbol="save"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="28" lineNum="254" pc="268439080" symbol="save"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="28" lineNum="255" pc="268439098" symbol="save"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="28" lineNum="256" pc="268439107" symbol="save"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="28" lineNum="257" pc="268439133" symbol="save"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="28" lineNum="258" pc="268439166" symbol="save"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="28" lineNum="259" pc="268439192" symbol="save"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="28" lineNum="260" pc="268439205" symbol="save"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="29" lineNum="264" pc="268439232" symbol="playTone"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="29" lineNum="265" pc="268439236" symbol="playTone"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="29" lineNum="266" pc="268439279" symbol="playTone"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="29" lineNum="267" pc="268439290" symbol="playTone"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="29" lineNum="268" pc="268439321" symbol="playTone"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="29" lineNum="269" pc="268439332" symbol="playTone"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="29" lineNum="270" pc="268439363" symbol="playTone"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="29" lineNum="271" pc="268439374" symbol="playTone"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="29" lineNum="272" pc="268439405" symbol="playTone"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="29" lineNum="273" pc="268439416" symbol="playTone"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="29" lineNum="275" pc="268439447" symbol="playTone"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="30" lineNum="280" pc="268439477" symbol="toArray"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="30" lineNum="281" pc="268439481" symbol="toArray"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="30" lineNum="282" pc="268439486" symbol="toArray"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="30" lineNum="283" pc="268439493" symbol="toArray"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="30" lineNum="284" pc="268439493" symbol="toArray"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="30" lineNum="286" pc="268439493" symbol="toArray"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="30" lineNum="287" pc="268439508" symbol="toArray"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="30" lineNum="288" pc="268439515" symbol="toArray"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="30" lineNum="289" pc="268439538" symbol="toArray"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="30" lineNum="290" pc="268439570" symbol="toArray"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="30" lineNum="294" pc="268439590" symbol="toArray"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="30" lineNum="296" pc="268439597" symbol="toArray"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="30" lineNum="297" pc="268439602" symbol="toArray"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="30" lineNum="298" pc="268439617" symbol="toArray"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="30" lineNum="300" pc="268439634" symbol="toArray"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="30" lineNum="21" pc="268441141" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerView.mc" id="30" lineNum="22" pc="268441155" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerMenuDelegate.mc" id="32" lineNum="8" pc="268439638" symbol="initialize"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerMenuDelegate.mc" id="32" lineNum="9" pc="268439642" symbol="initialize"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerMenuDelegate.mc" id="33" lineNum="13" pc="268439661" symbol="onSelect"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerMenuDelegate.mc" id="33" lineNum="14" pc="268439665" symbol="onSelect"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerMenuDelegate.mc" id="34" lineNum="17" pc="268439678" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerMenuDelegate.mc" id="34" lineNum="19" pc="268439682" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerMenuDelegate.mc" id="34" lineNum="21" pc="268439693" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerMenuDelegate.mc" id="34" lineNum="22" pc="268439731" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerMenuDelegate.mc" id="34" lineNum="24" pc="268439742" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerMenuDelegate.mc" id="34" lineNum="25" pc="268439780" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerMenuDelegate.mc" id="34" lineNum="27" pc="268439791" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerMenuDelegate.mc" id="34" lineNum="28" pc="268439829" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerMenuDelegate.mc" id="34" lineNum="30" pc="268439840" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerMenuDelegate.mc" id="34" lineNum="31" pc="268439878" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerMenuDelegate.mc" id="34" lineNum="33" pc="268439889" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerMenuDelegate.mc" id="34" lineNum="34" pc="268439927" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerMenuDelegate.mc" id="34" lineNum="36" pc="268439938" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerMenuDelegate.mc" id="34" lineNum="37" pc="268439976" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerMenuDelegate.mc" id="34" lineNum="39" pc="268439987" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerApp.mc" id="36" lineNum="8" pc="268440026" symbol="initialize"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerApp.mc" id="36" lineNum="9" pc="268440030" symbol="initialize"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerApp.mc" id="36" lineNum="10" pc="268440048" symbol="initialize"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerApp.mc" id="36" lineNum="11" pc="268440080" symbol="initialize"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerApp.mc" id="36" lineNum="12" pc="268440092" symbol="initialize"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerApp.mc" id="37" lineNum="16" pc="268440131" symbol="onStart"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerApp.mc" id="38" lineNum="20" pc="268440136" symbol="onStop"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerApp.mc" id="39" lineNum="24" pc="268440141" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerApp.mc" id="39" lineNum="25" pc="268440145" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerApp.mc" id="40" lineNum="28" pc="268440215" symbol="onSettingsChanged"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerApp.mc" id="40" lineNum="29" pc="268440219" symbol="onSettingsChanged"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerApp.mc" id="40" lineNum="30" pc="268440231" symbol="onSettingsChanged"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerApp.mc" id="41" lineNum="33" pc="268440248" symbol="checkSettings"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerApp.mc" id="41" lineNum="34" pc="268440252" symbol="checkSettings"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerApp.mc" id="41" lineNum="38" pc="268440262" symbol="checkSettings"/>
+        <entry filename="C:\\Users\\Kaeden\\connect-iq\\Garmin-AbsTimer-Lite\\source\\AbsTimerApp.mc" id="41" lineNum="39" pc="268440288" symbol="checkSettings"/>
+        <entry filename="Rez" id="47" lineNum="15" pc="268440327" symbol="MainLayout"/>
+        <entry filename="Rez" id="47" lineNum="18" pc="268440339" symbol="MainLayout"/>
+        <entry filename="Rez" id="47" lineNum="20" pc="268440503" symbol="MainLayout"/>
+        <entry filename="Rez" id="50" lineNum="33" pc="268440521" symbol="initialize"/>
+        <entry filename="Rez" id="50" lineNum="34" pc="268440525" symbol="initialize"/>
+        <entry filename="Rez" id="50" lineNum="35" pc="268440543" symbol="initialize"/>
+        <entry filename="Rez" id="50" lineNum="36" pc="268440599" symbol="initialize"/>
+        <entry filename="Rez" id="50" lineNum="37" pc="268440655" symbol="initialize"/>
+        <entry filename="Rez" id="50" lineNum="38" pc="268440711" symbol="initialize"/>
+        <entry filename="Rez" id="50" lineNum="39" pc="268440767" symbol="initialize"/>
+        <entry filename="Rez" id="50" lineNum="40" pc="268440823" symbol="initialize"/>
+        <entry filename="Rez" id="50" lineNum="41" pc="268440879" symbol="initialize"/>
+        <entry filename="Rez" id="52" lineNum="53" pc="268440936" symbol="initialize"/>
+        <entry filename="Rez" id="52" lineNum="54" pc="268440940" symbol="initialize"/>
+        <entry filename="Rez" id="52" lineNum="55" pc="268440958" symbol="initialize"/>
+        <entry filename="Rez" id="52" lineNum="56" pc="268441014" symbol="initialize"/>
+        <entry filename="Rez" id="52" lineNum="57" pc="268441070" symbol="initialize"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry id="67" method="true" symbol="skip"/>
+        <entry field="true" id="44" symbol="vibrate_enabled"/>
+        <entry field="true" id="24" symbol="menu"/>
+        <entry id="8389346" symbol="text"/>
+        <entry id="83" symbol="p_resume"/>
+        <entry id="27" method="true" symbol="updateMenu"/>
+        <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+        <entry id="8388700" method="true" symbol="callback1"/>
+        <entry id="72" method="true" symbol="toArray"/>
+        <entry id="4" module="true" symbol="globals/Rez/Menus"/>
+        <entry id="8388638" module="true" symbol="ActivityRecording"/>
+        <entry id="34" method="true" symbol="MainLayout"/>
+        <entry id="8389683" method="true" symbol="onSettingsChanged"/>
+        <entry field="true" id="12" symbol="done"/>
+        <entry field="true" id="16" symbol="times"/>
+        <entry field="true" id="25" symbol="pausedMenu"/>
+        <entry field="true" id="8388890" symbol="sport"/>
+        <entry field="true" id="50" symbol="activity_recording_enabled"/>
+        <entry field="true" id="48" symbol="font_size_label2"/>
+        <entry field="true" id="46" symbol="font_size_label1"/>
+        <entry id="21" object="true" symbol="AbsTimerView"/>
+        <entry id="8390424" module="true" symbol="Storage"/>
+        <entry field="true" id="36" symbol="beep_tone_enabled"/>
+        <entry id="74" symbol="p_save"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry field="true" id="11" symbol="absType"/>
+        <entry id="68" method="true" symbol="reset"/>
+        <entry field="true" id="20" symbol="app"/>
+        <entry field="true" id="39" symbol="AppName"/>
+        <entry field="true" id="51" symbol="opt_type_1"/>
+        <entry field="true" id="49" symbol="opt_type_0"/>
+        <entry id="8" module="true" symbol="globals/Rez/Strings"/>
+        <entry id="8389080" method="true" symbol="onMenu"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry id="10" object="true" symbol="AbsTimerDelegate"/>
+        <entry field="true" id="40" symbol="paused_menu_resume"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry id="22" object="true" symbol="AbsTimerMenuDelegate"/>
+        <entry field="true" id="19" symbol="font_size"/>
+        <entry id="8390425" module="true" symbol="Properties"/>
+        <entry id="2" module="true" symbol="globals/Rez"/>
+        <entry id="65" method="true" symbol="restart"/>
+        <entry field="true" id="62" symbol="prompt"/>
+        <entry id="70" method="true" symbol="startOrStopTimer"/>
+        <entry id="33" object="true" symbol="PausedMenu"/>
+        <entry id="64" method="true" symbol="checkSettings"/>
+        <entry id="28" method="true" symbol="getLabels"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry field="true" id="8389065" symbol="locY"/>
+        <entry field="true" id="8389064" symbol="locX"/>
+        <entry id="9" object="true" symbol="AbsTimerPausedMenuDelegate"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry field="true" id="41" symbol="paused_menu_save"/>
+        <entry id="8389348" symbol="font"/>
+        <entry field="true" id="13" symbol="exercize"/>
+        <entry id="82" symbol="item_7"/>
+        <entry id="81" symbol="item_6"/>
+        <entry id="80" symbol="item_5"/>
+        <entry id="79" symbol="item_4"/>
+        <entry id="78" symbol="item_3"/>
+        <entry id="77" symbol="item_2"/>
+        <entry id="76" symbol="item_1"/>
+        <entry field="true" id="61" symbol="rt_lb_title"/>
+        <entry id="30" module="true" symbol="Menus"/>
+        <entry id="6" module="true" symbol="globals/Rez/Layouts"/>
+        <entry field="true" id="35" symbol="paused_menu_discard"/>
+        <entry field="true" id="56" symbol="rt_lb_type"/>
+        <entry field="true" id="43" symbol="routine_labels"/>
+        <entry field="true" id="52" symbol="rt_tm_title"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry id="8389349" symbol="justification"/>
+        <entry id="8388987" method="true" symbol="vibrate"/>
+        <entry field="true" id="42" symbol="font_size_label"/>
+        <entry id="8388882" method="true" symbol="save"/>
+        <entry id="7" module="true" symbol="globals/Rez/JsonData"/>
+        <entry field="true" id="8388696" symbol="timer1"/>
+        <entry id="23" object="true" symbol="AbsTimerApp"/>
+        <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+        <entry field="true" id="26" symbol="manager"/>
+        <entry field="true" id="37" symbol="rt_nm_title"/>
+        <entry id="32" object="true" symbol="MainMenu"/>
+        <entry id="71" method="true" symbol="onPausedMenuSelected"/>
+        <entry id="8388985" method="true" symbol="playTone"/>
+        <entry id="8388644" module="true" symbol="System"/>
+        <entry id="8389619" method="true" symbol="onSelect"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry field="true" id="47" symbol="display_wake_enabled"/>
+        <entry field="true" id="14" symbol="running"/>
+        <entry field="true" id="45" symbol="routine_names"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry field="true" id="31" symbol="LauncherIcon"/>
+        <entry id="8388610" symbol="statics"/>
+        <entry id="8389123" method="true" symbol="onShow"/>
+        <entry id="8389350" module="true" symbol="globals"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry field="true" id="8388891" symbol="subSport"/>
+        <entry field="true" id="63" symbol="view"/>
+        <entry field="true" id="8388892" symbol="name"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry id="8389109" method="true" symbol="onMenuItem"/>
+        <entry id="8389347" symbol="color"/>
+        <entry id="8389097" method="true" symbol="onKey"/>
+        <entry field="true" id="73" symbol="_callback"/>
+        <entry field="true" id="38" symbol="routine_times"/>
+        <entry id="8388646" module="true" object="true" symbol="Timer"/>
+        <entry id="29" module="true" symbol="Layouts"/>
+        <entry id="8388636" module="true" symbol="Attention"/>
+        <entry id="8388698" method="true" symbol="start"/>
+        <entry field="true" id="15" symbol="names"/>
+        <entry id="66" method="true" symbol="pause"/>
+        <entry id="5" module="true" symbol="globals/Rez/Fonts"/>
+        <entry field="true" id="17" symbol="settingsValid"/>
+        <entry id="75" symbol="p_discard"/>
+        <entry field="true" id="8388694" symbol="count1"/>
+        <entry id="8388988" method="true" symbol="backlight"/>
+        <entry id="8389125" method="true" symbol="onHide"/>
+        <entry field="true" id="18" symbol="session"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+        <entry field="true" id="53" symbol="menu_label_7"/>
+        <entry field="true" id="55" symbol="menu_label_6"/>
+        <entry field="true" id="54" symbol="menu_label_5"/>
+        <entry field="true" id="58" symbol="menu_label_4"/>
+        <entry field="true" id="57" symbol="menu_label_3"/>
+        <entry field="true" id="60" symbol="menu_label_2"/>
+        <entry field="true" id="59" symbol="menu_label_1"/>
+        <entry id="69" method="true" symbol="getArrFromStr1D"/>
+    </symbolTable>
+    <localVars>
+        <entry arg="true" endPc="268435489" name="callback" stackId="1" startPc="268435456"/>
+        <entry arg="true" endPc="268435506" name="item" stackId="1" startPc="268435489"/>
+        <entry endPc="268435582" name="result" stackId="2" startPc="268435510"/>
+        <entry arg="true" endPc="268435583" name="item" stackId="1" startPc="268435506"/>
+        <entry arg="true" endPc="268435638" name="valid" stackId="1" startPc="268435583"/>
+        <entry arg="true" endPc="268435638" name="mgr" stackId="2" startPc="268435583"/>
+        <entry endPc="268435840" name="i" stackId="3" startPc="268435782"/>
+        <entry endPc="268435843" name="toReturn" stackId="2" startPc="268435755"/>
+        <entry endPc="268435843" name="numThings" stackId="1" startPc="268435755"/>
+        <entry arg="true" endPc="268436078" name="keyEvent" stackId="1" startPc="268435844"/>
+        <entry arg="true" endPc="268436335" name="valid" stackId="1" startPc="268436078"/>
+        <entry arg="true" endPc="268436657" name="dc" stackId="1" startPc="268436582"/>
+        <entry endPc="268437876" name="string" stackId="3" startPc="268437049"/>
+        <entry endPc="268437876" name="numSecs" stackId="2" startPc="268437049"/>
+        <entry endPc="268438048" name="string" stackId="4" startPc="268437879"/>
+        <entry arg="true" endPc="268438049" name="dc" stackId="1" startPc="268436978"/>
+        <entry endPc="268438214" name="i" stackId="4" startPc="268438110"/>
+        <entry endPc="268438217" name="temp" stackId="3" startPc="268438058"/>
+        <entry endPc="268438217" name="toReturn" stackId="2" startPc="268438058"/>
+        <entry arg="true" endPc="268438218" name="str" stackId="1" startPc="268438054"/>
+        <entry endPc="268438608" name="activityType" stackId="2" startPc="268438267"/>
+        <entry endPc="268438608" name="label" stackId="1" startPc="268438267"/>
+        <entry arg="true" endPc="268438887" name="result" stackId="1" startPc="268438778"/>
+        <entry endPc="268438998" name="vibeData" stackId="3" startPc="268438934"/>
+        <entry arg="true" endPc="268439002" name="two" stackId="2" startPc="268438887"/>
+        <entry arg="true" endPc="268439002" name="one" stackId="1" startPc="268438887"/>
+        <entry arg="true" endPc="268439477" name="tone" stackId="1" startPc="268439232"/>
+        <entry endPc="268439634" name="i" stackId="8" startPc="268439617"/>
+        <entry endPc="268439637" name="result" stackId="7" startPc="268439481"/>
+        <entry endPc="268439637" name="location" stackId="6" startPc="268439481"/>
+        <entry endPc="268439637" name="index" stackId="5" startPc="268439481"/>
+        <entry endPc="268439637" name="array" stackId="4" startPc="268439481"/>
+        <entry arg="true" endPc="268439638" name="len" stackId="3" startPc="268439477"/>
+        <entry arg="true" endPc="268439638" name="string" stackId="1" startPc="268439477"/>
+        <entry arg="true" endPc="268439638" name="splitter" stackId="2" startPc="268439477"/>
+        <entry arg="true" endPc="268439678" name="item" stackId="1" startPc="268439661"/>
+        <entry arg="true" endPc="268440026" name="item" stackId="1" startPc="268439678"/>
+        <entry arg="true" endPc="268440136" name="state" stackId="1" startPc="268440131"/>
+        <entry arg="true" endPc="268440141" name="state" stackId="1" startPc="268440136"/>
+        <entry endPc="268440520" name="rez_cmp_local_text_8926673871" stackId="2" startPc="268440339"/>
+        <entry arg="true" endPc="268440521" name="dc" stackId="1" startPc="268440327"/>
+    </localVars>
+    <annotations/>
+    <dataEntryOffsetMappings>
+        <dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+        <dataEntry offset="270" parentId="globals" symbolId="AbsTimerDelegate" type="class"/>
+        <dataEntry offset="381" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry offset="460" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry offset="499" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry offset="546" parentId="Menus" symbolId="PausedMenu" type="class"/>
+        <dataEntry offset="593" parentId="Menus" symbolId="MainMenu" type="class"/>
+        <dataEntry offset="640" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry offset="671" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry offset="710" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry offset="741" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry offset="996" parentId="globals" symbolId="AbsTimerMenuDelegate" type="class"/>
+        <dataEntry offset="1059" parentId="globals" symbolId="AbsTimerApp" type="class"/>
+        <dataEntry offset="1162" parentId="globals" symbolId="AbsTimerView" type="class"/>
+        <dataEntry offset="1345" parentId="globals" symbolId="AbsTimerPausedMenuDelegate" type="class"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" name="initialize" parent="AbsTimerPausedMenuDelegate">
+            <param id="callback"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onSelect" parent="AbsTimerPausedMenuDelegate">
+            <param id="item"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onMenuItem" parent="AbsTimerPausedMenuDelegate">
+            <param id="item"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="AbsTimerDelegate">
+            <param id="valid"/>
+            <param id="mgr"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onMenu" parent="AbsTimerDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="updateMenu" parent="AbsTimerDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getLabels" parent="AbsTimerDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onKey" parent="AbsTimerDelegate">
+            <param id="keyEvent"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="AbsTimerView">
+            <param id="valid"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="callback1" parent="AbsTimerView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="restart" parent="AbsTimerView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onLayout" parent="AbsTimerView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="start" parent="AbsTimerView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="pause" parent="AbsTimerView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="skip" parent="AbsTimerView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="reset" parent="AbsTimerView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onShow" parent="AbsTimerView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="AbsTimerView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onHide" parent="AbsTimerView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getArrFromStr1D" parent="AbsTimerView">
+            <param id="str"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="startOrStopTimer" parent="AbsTimerView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onPausedMenuSelected" parent="AbsTimerView">
+            <param id="result"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="vibrate" parent="AbsTimerView">
+            <param id="one"/>
+            <param id="two"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="save" parent="AbsTimerView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="playTone" parent="AbsTimerView">
+            <param id="tone"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="toArray" parent="AbsTimerView">
+            <param id="string"/>
+            <param id="splitter"/>
+            <param id="len"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="AbsTimerMenuDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onSelect" parent="AbsTimerMenuDelegate">
+            <param id="item"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onMenuItem" parent="AbsTimerMenuDelegate">
+            <param id="item"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="AbsTimerApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStart" parent="AbsTimerApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStop" parent="AbsTimerApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getInitialView" parent="AbsTimerApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onSettingsChanged" parent="AbsTimerApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="checkSettings" parent="AbsTimerApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="MainLayout" parent="Layouts">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="MainMenu">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="PausedMenu">
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>
